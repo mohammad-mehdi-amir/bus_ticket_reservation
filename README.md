@@ -4,7 +4,7 @@ bus ticket Reservation simulator
 
 #### about project
 the ui created by QT and it save data with pickle 
-and save it in json file
+and save it in txt file
 
 #### requirements
 pyqt5
